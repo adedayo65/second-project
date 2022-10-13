@@ -1,0 +1,38 @@
+body{
+    background-color: green;
+}
+.container{
+           background-color: white;
+           border-radius:3%;
+           width:30%;
+           height:300px;
+        padding-left:40px;
+        margin-left:20%;
+}
+.item{
+    border: none;
+    color: white;
+    background-color: royalblue;
+    border-radius:20px;
+    padding: 0.3rem;
+}
+.items1{ 
+         width:12%;
+         height:25px;
+}
+.strike{
+        text-decoration: line-through;
+    
+}
+.items2{
+    width: auto;
+    height: auto;
+       padding: 5px 20px 5px 20px;
+
+}
+.items3{
+        background-color: darkred;
+}
+.items4{
+    background-color:green;
+}
